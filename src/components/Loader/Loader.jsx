@@ -1,6 +1,5 @@
 import { Vortex } from 'react-loader-spinner';
-import css from './Loader.modules.css';
-
+import './Loader.modules.css';
 export const Loader = () => {
   return (
     <>
